@@ -20,6 +20,6 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: mayurgg7756/frontendrds
+        image: Akshay/frontendrds
         ports:
         - containerPort: 80
