@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
       - name: backend
-        image:akshay/backendrds
+        image: akshay599/backendrds
 
         ports:
         - containerPort: 8080
